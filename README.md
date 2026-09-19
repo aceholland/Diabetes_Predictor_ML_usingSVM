@@ -356,20 +356,6 @@ It is **not a medical diagnostic system** and should not be used to make clinica
 
 ## Author
 
-**Your Name**
+**Anushka Verma**
 
-GitHub: [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
-````
-
-**Repository name:**
-
-```text
-diabetes-prediction-svm
-````
-
-**GitHub description:**
-
-```text
-Diabetes prediction using Support Vector Machine (SVM) and the Pima Indians Diabetes Dataset.
-```
+GitHub: https://github.com/aceholland/Diabetes_Predictor_ML_usingSVM
